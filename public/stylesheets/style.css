@@ -1,0 +1,15 @@
+body {
+  padding: 50px;
+  font: 34px "Lucida Grande", Helvetica, Arial, sans-serif;
+  text-align: center;
+}
+
+a {
+  color: #00B7FF;
+}
+
+#boardgame {
+  display: grid;
+  grid-template-columns: 20% 20% 20% 20% 20%;
+  height: 100%
+}
